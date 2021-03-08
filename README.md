@@ -1,13 +1,13 @@
 <!-- Badges session -->
 <p align="center">  
   <!-- languages -->
-  <img src="https://img.shields.io/github/languages/count/pleiterson/spring-web-mvc?style=social" alt="Linguagens utilizadas">
+  <img src="https://img.shields.io/github/languages/count/pleiterson/spa-angular-dio?style=social" alt="Linguagens utilizadas">
   <!-- repo size -->
-  <img src="https://img.shields.io/github/repo-size/Pleiterson/spring-web-mvc?style=social" alt="Tamanho do repositório">
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/spa-angular-dio?style=social" alt="Tamanho do repositório">
   <!-- last commit -->
-  <img src="https://img.shields.io/github/last-commit/Pleiterson/spring-web-mvc?style=social" alt="Último commit">
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/spa-angular-dio?style=social" alt="Último commit">
   <!-- licence MIT -->
-  <img src="https://img.shields.io/github/license/Pleiterson/spring-web-mvc?style=social" alt="Licença MIT">
+  <img src="https://img.shields.io/github/license/Pleiterson/spa-angular-dio?style=social" alt="Licença MIT">
 </p>
 
 
