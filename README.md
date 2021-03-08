@@ -1,27 +1,43 @@
-# SpaAngularDio
+<!-- Badges session -->
+<p align="center">  
+  <!-- languages -->
+  <img src="https://img.shields.io/github/languages/count/pleiterson/spring-web-mvc?style=social" alt="Linguagens utilizadas">
+  <!-- repo size -->
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/spring-web-mvc?style=social" alt="Tamanho do repositório">
+  <!-- last commit -->
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/spring-web-mvc?style=social" alt="Último commit">
+  <!-- licence MIT -->
+  <img src="https://img.shields.io/github/license/Pleiterson/spring-web-mvc?style=social" alt="Licença MIT">
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
-## Development server
+<!--About session-->
+<h1 align="center">Desenvolvendo SPA com Angular<br>Digital Innovation One</h1>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Neste projeto, aprenda a otimizar o desenvolvimento de aplicações web com Single Page Application com foco em gerar uma melhor experiência ao usuário.
 
-## Code scaffolding
+- Projeto criado em Angular
+```
+ng new spa-angular-dio --prefix=spa
+```
+- Para rodar o projeto
+```
+ng serve -o
+```
+- Adicionado o Angular Material
+```
+ng add @angular/material
+```
+- Criando um componente
+```
+ng g c <nome do componente>
+ng g c home
+```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<!--License session-->
+<h3>📝 Licença</h3>
 
-## Build
+Este projeto está sob a licença [MIT](./LICENSE).
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<!--Bottom session-->
+<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
